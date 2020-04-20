@@ -1,2 +1,5 @@
 print('hello world')
-print('Kant')
+
+
+def hello():
+    print('helllo kant')
